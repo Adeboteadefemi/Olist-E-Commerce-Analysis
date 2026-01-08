@@ -21,9 +21,9 @@ During the initial build, a relationship bottleneck between the `Orders` and `Re
 
 I categorized all deliveries into three distinct performance buckets:
 
-* **🚀 Rapid Tier (0-5 Days):** The "Delight" window.
-* **📦 Standard Tier (6-10 Days):** The baseline market expectation.
-* **⚠️ Late Tier (11+ Days):** The high-risk friction zone.
+* ** Rapid Tier (0-5 Days):** The "Delight" window.
+* ** Standard Tier (6-10 Days):** The baseline market expectation.
+* ** Late Tier (11+ Days):** The high-risk friction zone.
 
 ---
 
@@ -46,7 +46,7 @@ Identifying categories that "suffer the most" from delays:
 
 ---
 
-## 📈 Strategic KPIs
+## Strategic KPIs
 
 | KPI | Value | Business Significance |
 | --- | --- | --- |
@@ -57,10 +57,8 @@ Identifying categories that "suffer the most" from delays:
 
 ---
 
-## 🚀 Strategic Recommendations
+## Strategic Recommendations
 
 1. **The "Pre-emptive Discount":** Automatically send a loyalty voucher to any customer whose order enters the **Late Tier** *before* they leave a review to mitigate 1-star ratings.
 2. **Category Specific Audit:** Focus on improving the shipping infrastructure for **Furniture** and **Auto Parts**, which show the highest dissatisfaction when delayed.
 3. **Loyalty Program:** With a 93% one-time buyer rate, Olist should use the high satisfaction of the **Rapid Tier** to launch a subscription-based "Prime" service.
-
----
