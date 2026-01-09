@@ -1,9 +1,9 @@
    📈Business Performance Analysis
-Focus: Financial health and geographic revenue distribution across Olist’s $15.84M total revenue.
+Focus: Financial health and geographic revenue distribution across Olist’s $15.92M total revenue.
 
 Order Volume: The platform successfully processed a total of 99K orders.
 
-Average Order Value (AOV): Each transaction averages $160.58 in value.
+Average Order Value (AOV): Each transaction averages $161.31 in value.
 
 Payment Preferences: The Treemap shows Credit Card as the dominant payment method by a wide margin.
 
@@ -15,7 +15,7 @@ Geographic Distribution: Revenue is heavily concentrated in the South/Southeast 
 
 Growth Observation: Monthly revenue reached its highest points near $1.8M during peak months.
 
-Efficiency Goal: Maintain the $160.58 AOV while recovering sales volume lost during the Q4 dip.
+Efficiency Goal: Maintain the $161.31 AOV while recovering sales volume lost during the Q4 dip.
 
 Conclusion: Olist is a high-volume marketplace driven by credit transactions and health/beauty sales.
 
