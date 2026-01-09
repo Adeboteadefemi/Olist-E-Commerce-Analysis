@@ -49,13 +49,13 @@ Screenshot:<img width="1303" height="724" alt="image" src="https://github.com/us
   📦Product Analysis
 Focus: Product performance, delivery speed segmentation, and revenue distribution across categories.
 
-Sales Volume: Exactly 51K Total Items were sold across the platform.
+Sales Volume: Exactly 113K Total Items were sold across the platform.
 
-Delivery Efficiency: The dashboard shows a 40.63% Delivery Efficiency rating.
+Delivery Efficiency: The dashboard shows a 45% Delivery Efficiency rating.
 
-Logistics Tiers: There is a major bottleneck with 30K Late Deliveries compared to only 3K Rapid Deliveries.
+Logistics Tiers: There is a major bottleneck with 60K Late Deliveries compared to only 8K Rapid Deliveries.
 
-Freight Ratio: The Freight Ratio stands at 16.05%, showing high shipping impact on product value.
+Freight Ratio: The Freight Ratio stands at 16.58%, showing high shipping impact on product value.
 
 Top Revenue Category: bed_bath_table is the highest revenue-generating category.
 
@@ -63,7 +63,7 @@ Top Selling Product: garden_tools leads in terms of "Total Items Sold".
 
 Price Distribution: The histogram shows most items are sold at a low price point, peaking near $50.
 
-Standard Performance: 18K deliveries fall into the "Standard" category.
+Standard Performance: 43K deliveries fall into the "Standard" category.
 
 Conclusion: Olist must optimize the 30K Late Deliveries to improve efficiency and protect top-selling categories.
 
@@ -96,11 +96,11 @@ Conclusion: Platform revenue is driven by a small group of high-performing power
   ⚙️Operational Metrics Analysis
 Focus: Evaluating delivery distribution and the relationship between weight and shipping costs.
 
-Delivery Efficiency: A major hurdle is identified with 59.37% (29.65K) of all orders classified as Late Deliveries.
+Delivery Efficiency: A major hurdle is identified with 54.15% (60.2K) of all orders classified as Late Deliveries.
 
-Performance Gap: Only a small fraction, 5.04% (2.52K), achieve Rapid Delivery status.
+Performance Gap: Only a small fraction, 7.3% (8.1K), achieve Rapid Delivery status.
 
-Standard Delivery: Approximately 35.59% (17.78K) of orders are delivered within the Standard timeframe.
+Standard Delivery: Approximately 38.45% (42.72K) of orders are delivered within the Standard timeframe.
 
 Time Distribution: Most orders peak in the 10 to 20-day delivery window.
 
