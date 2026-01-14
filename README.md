@@ -19,7 +19,8 @@ Efficiency Goal: Maintain the $161.31 AOV while recovering sales volume lost dur
 
 Conclusion: Olist is a high-volume marketplace driven by credit transactions and health/beauty sales.
 
-Screenshot:<img width="1299" height="721" alt="image" src="https://github.com/user-attachments/assets/921c1205-e275-44cb-81ce-71969d315e17" />
+Screenshot : <img width="1299" height="726" alt="image" src="https://github.com/user-attachments/assets/c9e61ca4-f224-494d-8005-674b00c5dd17" />
+
 
 
   👥Customer Analysis
@@ -43,8 +44,7 @@ Strategic Focus: Improve retention by targeting the high-spending PB and AC regi
 
 Conclusion: Success depends on converting the 90K one-time buyers into repeat users to offset acquisition costs.
 
-Screenshot:<img width="1303" height="724" alt="image" src="https://github.com/user-attachments/assets/50e86101-5edf-4b16-86fd-f6c0eb62c3a2" />
-
+Screenshot:<img width="1300" height="717" alt="image" src="https://github.com/user-attachments/assets/9cdcb345-9be6-4d41-a816-e77728cda083" />
 
   📦Product Analysis
 Focus: Product performance, delivery speed segmentation, and revenue distribution across categories.
@@ -67,7 +67,8 @@ Standard Performance: 43K deliveries fall into the "Standard" category.
 
 Conclusion: Olist must optimize the 30K Late Deliveries to improve efficiency and protect top-selling categories.
 
-Screenshot:<img width="1302" height="731" alt="image" src="https://github.com/user-attachments/assets/ac4cebf8-cdc3-4bc2-b43e-02ef45efc4e6" />
+Screenshot:<img width="1215" height="677" alt="Screenshot 2026-01-14 123117" src="https://github.com/user-attachments/assets/4a731da0-19a3-4bfd-b32c-fc17b5fa7051" />
+
 
 
    🏪Seller Analysis
@@ -90,7 +91,8 @@ Performance Stability: The active sellers chart shows a very consistent, flat li
 Niche Categories: Telephony and stationery have fewer than 100 sellers, representing lower competition.
 
 Conclusion: Platform revenue is driven by a small group of high-performing power sellers.
- screenshot : <img width="1214" height="677" alt="image" src="https://github.com/user-attachments/assets/cba38745-57c1-4f68-a1b1-c8e0480e13a2" />
+ screenshot :<img width="1302" height="739" alt="image" src="https://github.com/user-attachments/assets/b47d6593-f7ee-4efa-a842-ab52893d8f69" />
+
 
 
   ⚙️Operational Metrics Analysis
@@ -114,5 +116,38 @@ Logistical Bottleneck: The nearly 60% late delivery rate suggests systemic last-
 
 Conclusion: Success requires shifting the Late Delivery majority into higher tiers to improve platform health.
 
-Screenshot : <img width="1304" height="728" alt="image" src="https://github.com/user-attachments/assets/260cb7fe-5468-4356-b90c-8cd02570dfae" />
+Screenshot :<img width="1225" height="681" alt="Screenshot 2026-01-14 123305" src="https://github.com/user-attachments/assets/25c3e73d-73d0-4856-a220-e57524728678" />
+
+ 
+    
+   ⭐Review Analysis
+Average Review Score**: The platform maintains an overall rating of 4.03.
+
+Review vs. Delivery**: A clear negative correlation exists between delivery days and scores.
+
+Monthly Trend : Ratings stay stable with a slight mid-year peak and January dip.
+
+Top Performer : CDS/DVDs Musicals holds the highest average review score.
+
+Top Performer : Fashion Children is among the highest-rated product categories.
+
+Top Performer : Books (General Interest) consistently receives positive feedback.
+
+Bottom Performer : Security and Services is the lowest-rated category on the platform. 
+
+Bottom Performer : Diapers and Hygiene shows significant customer dissatisfaction.
+
+Bottom Performer : Office Furniture is a primary driver of lower platform averages.
+
+Late Delivery Impact : Late orders (7.3% of total) are the main cause of poor reviews.
+
+Standard Delivery: Standard tier orders (38.54%) maintain moderate satisfaction levels.
+
+Rapid Delivery : Over half of all orders (54.15%) fall into the high-satisfaction rapid tier. 
+
+Optimization Goal**: Reducing delivery days is the most direct way to increase review scores.
+
+Strategic Audit**: Focused quality reviews are needed for the bottom five product categories.
+
+
 
